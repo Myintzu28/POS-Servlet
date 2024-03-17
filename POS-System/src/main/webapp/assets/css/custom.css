@@ -1,0 +1,32 @@
+*{
+	font-family : Cambria;
+}
+
+.cart-badge{
+	position : relative;
+	top : -10px;
+	left: -5px;
+}
+
+.myslideimage {
+    
+      max-height: 400px;
+      min-height: 400px;
+      height : 350px; 
+      object-fit: cover; 
+      
+    }
+    
+.myiconimage{
+	
+	 max-height: 100px;
+      min-height: 100px;
+      height : 100px; 
+      object-fit: cover; 
+}
+
+.myimagecontext{
+	position : relative;
+	top : 10px;
+	font-size:22px;
+}
